@@ -1,0 +1,22 @@
+# Python specific
+__pycache__/
+dataset/
+# Environment
+.env
+venv/
+.env/
+
+# Editor specific
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Audio files
+audio/
+output_*.mp3
+text/
+*.rar
